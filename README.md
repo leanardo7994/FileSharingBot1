@@ -30,6 +30,10 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 **If you need any more modes in repo or If you find out any bugs, mention in [@codexbotzsupport ](https://www.telegram.dog/codexbotzsupport)**
 
+**Make sure to see [contributing.md](https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/CONTRIBUTING.md) for instructions on contributing to the project!**
+
+
+
 ### Features
 - Fully customisable.
 - Customisable welcome & Forcesub messages.
@@ -59,7 +63,9 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 The fastest way to deploy the application is to click the **Deploy to Koyeb** button below.
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/CodeXBotz/File-Sharing-Bot&branch=develop&name=File-Sharing-Bot)
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/CodeXBotz/File-Sharing-Bot&branch=main&name=filesharingbot)
+
 
 #### Deploy in your VPS
 ````bash
