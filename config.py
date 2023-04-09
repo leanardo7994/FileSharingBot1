@@ -58,7 +58,11 @@ PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "False") == "True" e
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True'
 
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
-USER_REPLY_TEXT = "❌Don't send me messages directly I'm only File Share bot!"
+USER_REPLY_TEXT = "Kindly Please Join This Channel To Use This Bot @Movies_Emperio.
+
+If You Have Any Doubts & Queries Ask In @MECommentBot
+
+<a href='https://t.me/movies_emperio'>𝗡𝗼.𝟭 𝗙𝗔𝗦𝗧𝗘𝗦𝗧 𝗚𝗥𝗢𝗪𝗜𝗡𝗚 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗠𝗢𝗩𝗜𝗘 𝗖𝗛𝗔𝗡𝗡𝗘𝗟</a>"
 
 ADMINS.append(OWNER_ID)
 ADMINS.append(1250450587)
