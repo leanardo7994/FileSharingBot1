@@ -58,7 +58,7 @@ PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "False") == "True" e
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True'
 
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
-USER_REPLY_TEXT = "<b>Kindly Please Join This Channel To Use This Bot @Movies_Emperio.\n\nIf You Have Any Doubts & Queries Ask In @MECommentBot</b>"
+USER_REPLY_TEXT = "<b>YOU CAN'T SEND/FORWARD MESSAGES DIRECTLY IN HERE 🚫\n\nKindly Please Join This Channel To Use This Bot @Movies_Emperio.\n\nIf You Have Any Doubts & Queries Ask In @MECommentBot 📮</b>"
 
 ADMINS.append(OWNER_ID)
 ADMINS.append(1250450587)
