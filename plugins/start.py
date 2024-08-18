@@ -127,7 +127,7 @@ async def not_joined(client: Client, message: Message):
     try:
 
         command, argument = message_text.split()
-        text = text + f"\n\n<b>AFTER JOINED THE CHANNEL\n<a href='https://t.me/{client.username}?start={argument}'>👉 CLICK HERE</a></b>"
+        text = text + f"\n\n<b>AFTER JOINED THE CHANNEL\n<blockquote><a href='https://t.me/{client.username}?start={argument}'>👉 CLICK HERE</a></b></blockquote>"
     except ValueError:
         pass
     reply_markup = InlineKeyboardMarkup(
