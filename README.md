@@ -4,13 +4,13 @@
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
-  <a href="https://t.me/Movies_emperio">
+  <a href="https://t.me/Movie_emporio">
     <img src="https://img.shields.io/badge/MADE%20BY-%F0%9D%90%8C%F0%9D%90%8E%F0%9D%90%95%F0%9D%90%88%F0%9D%90%84%F0%9D%90%92%20%F0%9D%90%84%F0%9D%90%8C%F0%9D%90%8F%F0%9D%90%8E%F0%9D%90%91%F0%9D%90%88%F0%9D%90%8E-orange" width="250" height="39">
   </a><br>
-  <a href="https://t.me/Movies_emperio">
+  <a href="https://t.me/Movie_emporio">
     &nbsp;<img src="https://img.shields.io/badge/%F0%9D%90%8C%F0%9D%90%8E%F0%9D%90%95%F0%9D%90%88%F0%9D%90%84%F0%9D%90%92%20%F0%9D%90%84%F0%9D%90%8C%F0%9D%90%8F%F0%9D%90%8E%F0%9D%90%91%F0%9D%90%88%F0%9D%90%8E-CHANNEL%20-yellowgreen?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
-  <a href="https://t.me/Cinemas_Empire">
+  <a href="https://t.me/MoviesEmporio_Group">
     &nbsp;<img src="https://img.shields.io/badge/%F0%9D%90%8C%F0%9D%90%8E%F0%9D%90%95%F0%9D%90%88%F0%9D%90%84%F0%9D%90%92%20%F0%9D%90%84%F0%9D%90%8C%F0%9D%90%8F%F0%9D%90%8E%F0%9D%90%91%F0%9D%90%88%F0%9D%90%8E-GROUP-yellowgreen?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <br>  
