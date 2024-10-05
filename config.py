@@ -22,7 +22,7 @@ API_HASH = os.environ.get("API_HASH", "")
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002179983069"))
 
 #OWNER ID
-OWNER_ID = int(os.environ.get("OWNER_ID", ""))
+OWNER_ID = int(os.environ.get("OWNER_ID", "5279799134"))
 
 #Port
 PORT = os.environ.get("PORT", "8080")
@@ -61,7 +61,7 @@ BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
 USER_REPLY_TEXT = "<b>YOU CAN'T SEND/FORWARD MESSAGES DIRECTLY IN HERE 🚫\n\nKindly Please Join This Channel To Use This Bot @Movie_Emporio.\n\nIf You Have Any Doubts & Queries Ask In @MEChatGroup 📮</b>"
 
 ADMINS.append(OWNER_ID)
-ADMINS.append(1250450587)
+ADMINS.append(5279799134)
 
 LOG_FILE_NAME = "filesharingbot.txt"
 
